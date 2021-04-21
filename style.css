@@ -91,7 +91,9 @@ footer{
 	color:white;
 	text-align: center;
 }
-
+footer img{
+	text-align: center;
+}
 footer h2{
     padding: 10px 0;
 text-align: center;
