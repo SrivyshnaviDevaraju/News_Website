@@ -93,15 +93,18 @@ footer{
 }
 footer img{
 	text-align: center;
+	color:white;
 }
 footer h2{
     padding: 10px 0;
 text-align: center;
+	color:white;
 }
 
 footer p{
     padding: 10px 0;
 text-align: center;
+	color:white;
 }
 .copyright{
 	width: 100%;
